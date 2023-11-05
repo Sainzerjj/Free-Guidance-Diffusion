@@ -1,5 +1,5 @@
 # Free-Guidance-Diffusion
-A method that provides greater control over generated images by guiding the internal representations of the pre-trained Stable Diffusion (SDv1.5). This idea is inspired by [Diffusion Self-Guidance for Controllable Image Generation](https://arxiv.org/pdf/2306.00986.pdf) (NIPS 2023).Diffusion Self-Guidance for Controllable Image Generation
+A method that provides greater control over generated images by guiding the internal representations of the pre-trained Stable Diffusion (SDv1.5). This idea is inspired by [Diffusion Self-Guidance for Controllable Image Generation](https://arxiv.org/pdf/2306.00986.pdf) (NIPS 2023).
 
 The method allows for various modifications, including changing the position or size of specific objects, combining the appearance of an object from one image with the layout of another image, and merging objects from multiple images into a single image. 
 
