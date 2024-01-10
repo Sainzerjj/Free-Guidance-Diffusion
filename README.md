@@ -8,3 +8,4 @@ The core implementation is **StableDiffusionFreeGuidancePipeline** written based
 The biggest challenege is the weights are very sensitive and the method performs worse as the prompts get more complex — subjects of the image interact, and it becomes harder to isolate the attention of specific tokens.
 
 
+![demo](https://github.com/Sainzerjj/Free-Guidance-Diffusion/blob/master/image/demo.png) 
